@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
+*.log
+.DS_Store
+data/
+*.bloop
+*.metals
+.bsp
+.idea/**
+.idea
+/.idea/
